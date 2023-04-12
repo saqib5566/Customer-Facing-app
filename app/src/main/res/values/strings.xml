@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Customer Facing App</string>
+    <string name="mikronexus">Mikronexus</string>
+    <string name="customer_facing_app">Customer Facing App</string>
+    <string name="com_mikronexus_cfa">com.mikronexus.cfa</string>
+    <string name="proceed">Proceed</string>
+</resources>
